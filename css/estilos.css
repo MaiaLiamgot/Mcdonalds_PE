@@ -1,0 +1,16 @@
+div img {
+    justify-content: end;
+}
+
+h1 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #F7B538;
+    font-family: 'Cormorant SC', serif;
+    font-family: 'Libre Bodoni', serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: larger;
+}
+
